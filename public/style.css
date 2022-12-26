@@ -36,7 +36,14 @@ body {
   float: left; 
 }
 
-#button img {
-  width: 300px;
+#button {
+  margin-top: 15px;
+  border:none;
+  cursor:pointer;
+  background-color: white;
+}
+
+ img {
+  width: 250px;
   margin-top: 25px;
 }

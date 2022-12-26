@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "harmanproj",
+  "private_key_id": "415f31c6bc62c01d753594206f694f99802b214b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCwyq0WUW9Bf0EO\nz+DvNNMOrx0xRjQVYFngkqeafuQGyXO5glwfQNjrFN+s2kRanZggkfKzzm7Jl2wV\nj3lHeYt9VGXK59FDZJSlctYkzXfBMGXtTtXsa4zgMPAlHccwUTdsX8Je7MY4hQLf\nMkOPK33fTevVMq4UaJ8CcLJP3mcUPkK81/andz305pSWMhUeHP0q+50toTzpGLXj\n4II52WL0Fjxbe1tgWAqMDzDwiwn06LT1QBteiXdB9TwkKn4h5DaihR88I1vgySaD\nTioIt0ZZ/NPfRinP5X3k2ChXYfcEeYvLYQt0grXlZELcVqzj9gBwgNGeScx4Z7Lg\n81hC9uGTAgMBAAECggEANoZjyLjX897f/UX+zTfBCkvW2I4a3SbowVrpxzvwbult\nwB6k89ynqiU3cROmNj5Zn13z+SGnSJRjeOjVkkY5z68ab/B8OWlJcReQVSxrjVE0\ndnK0hqSK/9AIGKJs/wllaw7Dn0wuPFtFjfnuHTdgLGFXZVsqlk/IDtQcIoboyrR+\nPEmhWeAV+mOlg6WpAyHW2f08Lf4ZNSeX0uS7+5beCqcXXltmbJTD6UwakcuYRZgy\n3s24CqzExfUE0FNKrHrT1zd32/IbA+XvF2+2ZipSCGisk96VjSpYBa/vH32sBmle\nUS3n1lmAUHAtMg8fnlvIm9VoUWXbiWpUX3ZXQMNHXQKBgQD5CAlD/XaxgFw94+xF\nqPgKChomvIObCWp4/cKM9+m3SG4bIU+sMSLdr/g49qeCtf4ccb/XgFC4+CS+gmwZ\nt+/W5/KSFvBKCSZuBBordkq1t/Di5DX1pgXOzf037JMWoa2UTp5tVTZMza4vXl8y\n85wkVGVRpdGljgf6d4JKTpCpxwKBgQC1vSSZdBYRruau+74eBh1eooEDZhy/4Zu4\npymrNhvNNvSviwEcu/mpFNsh7OEaHjbxg3y7wQe9zd+HC1CosjRbCsJ9Mb0cV4gi\n1mT3puA/nZxynf7kIKeXu9xqxCcUD1BcpuBUnx0cAVgdr0tlLJONHs+wZJrEeFLK\nqLjDcVFp1QKBgA3HPgv++BQ2D+R0udvYz3BuwqemAnoPeU6ca6k1Bj9XyI/Dtg7G\n4TD2zXsJWpdGznpwaLbZqJ2zTQUlXinGHYT8bFVc44qVGwU3QONqthN7y94h1kJz\nHxskFoCDnFfCNkJgXy+ZaVmyf5KrXAULqXXxHXH5BLJuO07GUfUeh659AoGAfAJP\nKgKjWHee4wHWTYhgnAWIwPf5YBki99HgxfoK6HG6btoL7T568hvQFwsa4oaBeTT+\ndOMXVDVZdD2NUT8gKItkAKdi4ib8NsFSbgZJeD8k1LToi2OY2BmRIq0r+S0l6cLY\nygU0iLqGFONbL/NFz4KZt0Q+sxdjbvPH91yob+0CgYEAsevbOhhHnrnKf9PxwcQx\nCGQCLagYbddu3viulTB+T8ZlRUu0zlWc1JVXyEu1t1FS55XR03lKjVVY2Qfw+w7+\ngjdn6mED1J4igZPmOCjPFErU3i1H4++HNA9A/hSMTtIoW0wv1APxo3a1leGnoKHA\n72VQ8t/uQlgjBmt7Ec1cwLE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "harman@harmanproj.iam.gserviceaccount.com",
+  "client_id": "100807208542618983337",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/harman%40harmanproj.iam.gserviceaccount.com"
+}
